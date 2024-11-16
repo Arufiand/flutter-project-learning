@@ -1,0 +1,33 @@
+# Flutter/Dart specific
+**/.dart_tool/
+**/.packages
+**/build/
+**/ios/Flutter/*.xcworkspace/
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/App.framework/
+**/ios/.symlinks/
+**/ios/Pods/
+**/.ios/
+**/.android/
+**/android/.gradle/
+**/android/app/debug.keystore
+**/web/.dart_tool/
+**/web/.packages
+**/linux/flutter/ephemeral/
+**/macos/flutter/ephemeral/
+**/windows/flutter/ephemeral/
+**/.vscode/
+**/firebase_app_id_file.json
+
+# IDE/Editor specific
+**/.idea/
+**/.settings/
+**/.metadata/
+**/*.iml
+**/local.properties
+
+# OS generated files
+.DS_Store
+*.swp
+
+
