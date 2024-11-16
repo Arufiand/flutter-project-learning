@@ -1,3 +1,9 @@
 [submodule "pics"]
 	path = pics
 	url = https://github.com/Arufiand/flutter-pics
+[submodule "flutter-login_statefull"]
+	path = flutter-login_statefull
+	url = git@github.com:Arufiand/flutter-login_statefull.git
+[submodule "login_stateful"]
+	path = login_stateful
+	url = git@github.com:Arufiand/flutter-login_statefull.git
