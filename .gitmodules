@@ -7,3 +7,6 @@
 [submodule "login_stateful"]
 	path = login_stateful
 	url = git@github.com:Arufiand/flutter-login_statefull.git
+[submodule "login_bloc"]
+	path = login_bloc
+	url = git@github.com:Arufiand/flutter-login_bloc.git
