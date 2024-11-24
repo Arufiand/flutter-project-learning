@@ -10,3 +10,6 @@
 [submodule "login_bloc"]
 	path = login_bloc
 	url = git@github.com:Arufiand/flutter-login_bloc.git
+[submodule "animation"]
+	path = animation
+	url = git@github.com:Arufiand/flutter-animation.git
